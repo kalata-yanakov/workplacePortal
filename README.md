@@ -1,2 +1,2 @@
-# Safe Workspace Portal
-
+You can explore the app from here: https://youtu.be/Ih_hsLqbEFw.
+Workplace portal is striving to provide companies with a powerful tool to ease the returning of employees back to the office after COVID-19 lock down. The portal has authentication , user/admin interface. Admin can control the desk policy in the office and rearrange based on COVID API percentage, send reminders via email. Users can also check the COVID cases in different countries via world map dynamically. User can apply vacation and view their schedule for current and next week. You can also find a user manual for the app in Worplace manual folder. 
